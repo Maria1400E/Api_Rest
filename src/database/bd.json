@@ -1,0 +1,43 @@
+{
+    "workouts": [
+        {
+            "id": 2,
+            "nombre": "Los simpson",
+            "documento": "96632544",
+            "email": "contacto@lossimpson.com",
+            "telefono": "5600400",
+            "origen": null,
+            "sector": null,
+            "pais": null,
+            "ciudad": null,
+            "direccion": null,
+            "fecha": "2024-01-17"
+        },
+        {
+            "id": 3,
+            "nombre": "Grupo mira",
+            "documento": "32568712",
+            "email": "contacto@grupomira.com",
+            "telefono": "5736039",
+            "origen": null,
+            "sector": null,
+            "pais": null,
+            "ciudad": null,
+            "direccion": null,
+            "fecha": "2024-02-21"
+        },
+        {
+            "id": 4,
+            "nombre": "Percimon",
+            "documento": "96632544",
+            "email": "contacto@percimon.com",
+            "telefono": "5639874",
+            "origen": null,
+            "sector": null,
+            "pais": null,
+            "ciudad": null,
+            "direccion": null,
+            "fecha": "2024-03-23"
+        }
+    ]
+}

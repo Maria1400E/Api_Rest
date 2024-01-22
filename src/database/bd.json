@@ -41,9 +41,22 @@
         },
         {
             "id": 4,
-            "nombre": "cesde",
+            "nombre": "Cesde",
             "documento": "96632544",
             "email": "contacto@cesde.com",
+            "telefono": "5639874",
+            "origen": null,
+            "sector": null,
+            "pais": null,
+            "ciudad": null,
+            "direccion": null,
+            "fecha": "2024-03-25"
+        },
+        {
+            "id": 4,
+            "nombre": "Pascual Bravo",
+            "documento": "96632544",
+            "email": "contacto@pascualbravo.com",
             "telefono": "5639874",
             "origen": null,
             "sector": null,
